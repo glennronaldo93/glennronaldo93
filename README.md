@@ -16,7 +16,7 @@ Currently, I am focusing on developing my skills as a **Data Analyst** by workin
 
 - D3 Information Systems  
 - Universitas Pembangunan Nasional "Veteran" Jakarta
-- GPA: 3.84/4.00
+- GPA: 3.85/4.00
 
 📊 **Career Interest**
 
