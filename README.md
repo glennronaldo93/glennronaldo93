@@ -220,27 +220,6 @@ Participated in a learning session covering the role, career path, required comp
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=glennronaldo93&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"
-    height="165"
-    alt="Glenn Ronaldo Tambunan GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=glennronaldo93&layout=compact&theme=transparent&hide_border=true&langs_count=8"
-    height="165"
-    alt="Glenn Ronaldo Tambunan Most Used Languages"
-  />
-</p>
-
-<p align="center">
-  <i>Statistics are generated from public GitHub repositories.</i>
-</p>
-
----
-
 ## Contact and CV
 
 <p align="center">
