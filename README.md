@@ -1,4 +1,4 @@
-#<h1 align="center">Hi, I'm Glenn Ronaldo Tambunan 👋</h1>
+<h1 align="center">Hi, I'm Glenn Ronaldo Tambunan 👋</h1>
 
 <h3 align="center">Data Analyst and Business Intelligence Enthusiast</h3>
 
