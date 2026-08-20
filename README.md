@@ -10,11 +10,11 @@ Information Systems student focused on transforming data into meaningful insight
 
 ## About Me
 
-- 🎓 Active fifth-semester Diploma student in Information Systems at the Faculty of Computer Science, UPN “Veteran” Jakarta.
-- 📊 Interested in Data Analytics, Business Intelligence, Data Visualization, and Machine Learning.
-- 🛠️ Experienced in data cleaning, exploratory data analysis, SQL querying, dashboard development, and machine learning through academic projects and bootcamps.
-- 📈 Familiar with Microsoft Excel, SQL, Google BigQuery, Python, Tableau, and Google Looker Studio.
-- 🔎 Currently seeking a Data Analyst or Business Intelligence internship to apply and further develop my analytical skills in a professional environment.
+- Active fifth-semester Diploma student in Information Systems at the Faculty of Computer Science, UPN “Veteran” Jakarta.
+- Interested in Data Analytics, Business Intelligence, Data Visualization, and Machine Learning.
+- Experienced in data cleaning, exploratory data analysis, SQL querying, dashboard development, and machine learning through academic projects and bootcamps.
+- Familiar with Microsoft Excel, SQL, Google BigQuery, Python, Tableau, and Google Looker Studio.
+- Currently seeking a Data Analyst or Business Intelligence internship to apply and further develop my analytical skills in a professional environment.
 
 ---
 
@@ -50,7 +50,7 @@ Data Cleaning • Exploratory Data Analysis • Data Visualization • Dashboard
 
 ## Featured Projects
 
-### 📊 Kitchen Equipment Sales Performance Analysis
+### Kitchen Equipment Sales Performance Analysis
 
 An end-to-end sales analytics project developed during the KarirNex Data Analyst Bootcamp. The project involved data cleaning, SQL analysis, exploratory data analysis, and interactive dashboard development to evaluate sales, orders, refunds, products, and regional performance.
 
@@ -62,7 +62,7 @@ An end-to-end sales analytics project developed during the KarirNex Data Analyst
 
 ---
 
-### 🛒 Retail Sales Analytical Report
+### Retail Sales Analytical Report
 
 An end-to-end retail sales analysis project developed during the SpecialSkill Data Analyst Bootcamp. The project involved data assessment, data cleaning, descriptive statistical analysis, exploratory data analysis, and data visualization to evaluate sales trends, product performance, customer characteristics, and purchasing patterns.
 
@@ -74,7 +74,7 @@ An end-to-end retail sales analysis project developed during the SpecialSkill Da
 
 ---
 
-### ❤️ Heart Disease Prediction Using Machine Learning
+### Heart Disease Prediction Using Machine Learning
 
 A collaborative mini project developed during the POINTER 2026 workshop to predict heart disease indications using clinical patient data. Seven classification algorithms were trained and compared using multiple model evaluation metrics.
 
@@ -86,7 +86,7 @@ A collaborative mini project developed during the POINTER 2026 workshop to predi
 
 ---
 
-### ⛽ Fuel Sales Analysis and Business Intelligence Dashboard
+### Fuel Sales Analysis and Business Intelligence Dashboard
 
 Analyzed 500 fuel sales records through data cleaning, feature engineering, exploratory data analysis, and K-Means clustering. Developed two interactive Tableau dashboards to monitor sales KPIs, revenue trends, station performance, and transaction patterns.
 
@@ -98,7 +98,7 @@ Analyzed 500 fuel sales records through data cleaning, feature engineering, expl
 
 ---
 
-### 📉 Telco Customer Churn Prediction
+### Telco Customer Churn Prediction
 
 A collaborative machine learning project analyzing 7,043 telecommunications customer records using the Knowledge Discovery in Databases framework. Developed and compared Logistic Regression and Decision Tree models to classify customers as churn or non-churn.
 
@@ -110,7 +110,7 @@ A collaborative machine learning project analyzing 7,043 telecommunications cust
 
 ---
 
-### 👥 University Workforce Analytics Dashboard
+### University Workforce Analytics Dashboard
 
 A collaborative data visualization project analyzing 725 university employee records across 16 attributes. Developed three interactive dashboards presenting workforce demographics, employment status, academic positions, faculty distribution, and employee certification patterns.
 
@@ -118,7 +118,7 @@ A collaborative data visualization project analyzing 725 university employee rec
 
 **Tools:** Microsoft Excel, Tableau Public
 
-![Repository in Progress](https://img.shields.io/badge/Repository-In_Progress-lightgrey?style=for-the-badge&logo=github)
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/glennronaldo93/university-workforce-analytics-dashboard)
 
 ---
 
