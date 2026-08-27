@@ -74,6 +74,18 @@ An end-to-end retail sales analysis project developed during the SpecialSkill Da
 
 ---
 
+### AI Agent for Data Analysis
+
+An AI-powered data analysis project developed during the IBM SkillsBuild University Education program in collaboration with Hacktiv8 Indonesia. The project involved designing an AI Agent workflow using Langflow, integrating LLM-based agents and Python tools to automate data profiling, business analysis, and reporting processes.
+
+**Key Highlight:** Built a Sales Intelligence & Automated Reporting Agent that processed 1,000 retail sales transaction records, identified data quality issues, generated KPI insights, and achieved a final project score of 92.35/100.
+
+**Tools:** Langflow, IBM Granite, IBM Bob, Python, Prompt Engineering, AI Agent Development
+
+![Repository in Progress](https://img.shields.io/badge/Repository-In_Progress-lightgrey?style=for-the-badge&logo=github)
+
+---
+
 ### Heart Disease Prediction Using Machine Learning
 
 A collaborative mini project developed during the POINTER 2026 workshop to predict heart disease indications using clinical patient data. Seven classification algorithms were trained and compared using multiple model evaluation metrics.
@@ -160,6 +172,38 @@ Completed a 24-hour bootcamp covering statistical fundamentals, Microsoft Excel,
   <img src="certificate/SpecialSkill_Data_Analyst_Certificate_Page1.png" width="800" alt="SpecialSkill Data Analyst Certificate Page 1"/>
   <br><br>
   <img src="certificate/SpecialSkill_Data_Analyst_Certificate_Page2.png" width="800" alt="SpecialSkill Data Analyst Certificate Page 2"/>
+</p>
+
+</details>
+
+<br>
+
+<details>
+
+<summary><b>AI Agent for Data Analysis, IBM SkillsBuild University Education (Hacktiv8 Indonesia)</b></summary>
+
+<br>
+
+Completed a 9-hour program covering data analysis fundamentals, AI Agent development, workflow integration, AI-powered solution design, and automation of analytical workflows.
+
+**Capstone Project:** Sales Intelligence & Automated Reporting Agent
+
+**Achievement:** Final project score of 92.35/100
+
+**Issued:** July 2026
+
+<p align="center">
+
+  <img src="certificate/IBM_SkillsBuild_AI_Agent_for_Data_Analysis_Certificate.png" width="800" alt="IBM SkillsBuild AI Agent for Data Analysis Certificate"/>
+
+  <br><br>
+
+  <img src="certificate/IBM_SkillsBuild_AI_Agent_for_Data_Analysis_Transcript_Page1.png" width="800" alt="IBM SkillsBuild AI Agent for Data Analysis Transcript Page 1"/>
+
+  <br><br>
+
+  <img src="certificate/IBM_SkillsBuild_AI_Agent_for_Data_Analysis_Project_Score_Page2.png" width="800" alt="IBM SkillsBuild AI Agent for Data Analysis Project Score"/>
+
 </p>
 
 </details>
